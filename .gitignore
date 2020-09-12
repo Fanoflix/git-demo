@@ -1,1 +1,3 @@
+#This file contains patterns/files which are not tracked by git #
+
 *.log
